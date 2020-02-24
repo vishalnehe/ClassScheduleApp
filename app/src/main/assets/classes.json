@@ -1,0 +1,22 @@
+{
+  "classes": [
+    {
+      "class_no": "CS 646",
+      "class_title": "Android Application Development",
+      "classroom_no": "GC 1504",
+      "class_start_time": "07:00 pm"
+    },
+    {
+      "class_no": "CS 574",
+      "class_title": "Computer Security",
+      "classroom_no": "PG 153",
+      "class_start_time": "07:00 pm"
+    },
+    {
+      "class_no": "CS 615",
+      "class_title": "Spatial Databases",
+      "classroom_no": "GMCS 301",
+      "class_start_time": "07:00 pm"
+    }
+  ]
+}

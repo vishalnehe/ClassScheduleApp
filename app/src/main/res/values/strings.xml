@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ClassSchedule</string>
+    <string name="home">Home</string>
+    <string name="student">Student</string>
+    <string name="classes">Classes</string>
+    <string name="classLabel">"Class No: "</string>
+    <string name="nameEmptyErrorString">Name cannot be empty</string>
+    <string name="nameLengthErrorString">Name too long</string>
+    <string name="emailEmptyErrorString">Email cannot be empty</string>
+    <string name="redIdEmptyErrorString">Red Id cannot be empty</string>
+    <string name="redIdLengthErrorString">Red Id should be 9 digit</string>
+    <string name="studentInfo">Student Info:</string>
+    <string name="nameLabel">Name: </string>
+    <string name="addName">Add Name</string>
+    <string name="emailLabel">Email ID: </string>
+    <string name="addEmail">Add Email</string>
+    <string name="redIdLabel">Red ID: </string>
+    <string name="addRedId">Add Red ID</string>
+    <string name="registeredClasses">Registered Classes:</string>
+    <string name="nameHint">Name</string>
+    <string name="emailHint">Email Id</string>
+    <string name="redIdHint">Red ID</string>
+    <string name="confirm">Confirm</string>
+    <string name="add">Add</string>
+    <string name="drop">Drop</string>
+    <string name="addDropClasses">Add/Drop Classes:</string>
+    <string name="enterInfo">Enter Information:</string>
+</resources>
