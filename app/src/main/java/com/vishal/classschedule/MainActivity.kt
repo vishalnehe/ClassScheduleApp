@@ -51,8 +51,8 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    override fun onDestroy() {
-        super.onDestroy()
+    override fun onStop() {
+        super.onStop()
         sharedPreferences = getSharedPreferences(sharePrefs, Context.MODE_PRIVATE)
         mEditor = sharedPreferences?.edit()
         val classSet = HashSet<String?>()
